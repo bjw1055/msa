@@ -1,0 +1,17 @@
+### IDE ###
+.vscode/
+.idea/
+*.iml
+
+### Claude Code ###
+.claude/settings.local.json
+
+### Environment / Secrets ###
+.env*
+
+### Logs ###
+*.log
+
+### OS ###
+.DS_Store
+Thumbs.db
